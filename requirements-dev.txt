@@ -7,3 +7,10 @@ pycodestyle==2.6.0
 pyflakes==2.2.0
 requests==2.25.0
 urllib3==1.26.2
+pyparsing==2.0.2
+py==1.8.2
+attrs==20.3.0
+pluggy==0.13.1
+pytest==6.2.1
+-r requirements.txt
+
