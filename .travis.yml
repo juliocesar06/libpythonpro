@@ -1,8 +1,10 @@
-language: 'python'
+language: python
 python :
-  '-3.9'
+  -3.9
 install:
-  '-pip install -r requirements-dev.txt'
+  -pip install -r requirements-dev.txt codecov
 script:
-  '-flake8'
-  '- pytest libpythonpro'
+  -flake8
+  - pytest PycharmProjects
+after_success:
+  - codecov
