@@ -7,3 +7,4 @@ Nesse Curso é ensinado a como contribuir com projetos de código aberto.
 [[![Build Status](https://travis-ci.org/juliocesar06/libpythonpro.svg?branch=master)](https://travis-ci.org/juliocesar06/libpythonpro)]
 [![Updates](https://pyup.io/repos/github/juliocesar06/libpythonpro/shield.svg)](https://pyup.io/repos/github/juliocesar06/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/juliocesar06/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/juliocesar06/libpythonpro/)
+[![codecov](https://codecov.io/gh/juliocesar06/libpythonpro/branch/master/graph/badge.svg?token=T4S7XHXBBU)](https://codecov.io/gh/juliocesar06/libpythonpro)
